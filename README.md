@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on reactjs, nodejs, API development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dragan-vu%C4%8Dini%C4%87-969946212/)
 - 😄 My Dev Card:
+
 - <a href="https://app.daily.dev/paxon"><img src="https://api.daily.dev/devcards/4c1feff3da5040a9baa945c54fb39e79.png?r=5sy" width="400" alt="Dragan's Dev Card"/></a>
 <!--
 **ogurenko/ogurenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
