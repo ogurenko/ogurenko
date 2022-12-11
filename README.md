@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## About me:
-- 🔭 I’m currently working on freelance projects
 - 🌱 GraphQL enthusiast
 - 👯 I’m looking to collaborate on reactjs, nodejs, API development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dragan-vu%C4%8Dini%C4%87-969946212/)
